@@ -43,7 +43,8 @@ ReligionExamAutoSubmit/
 ├── requirements.txt   # 依赖列表
 ├── LICENSE            # Apache-2.0
 ├── README.md          # 本文档
-└── .gitignore         # 已排除账号/日志/图片
+├── .gitignore         # 已排除账号/日志/图片
+└── quiz.db 本地题库查询
 ```
 
 ---
